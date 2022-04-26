@@ -1,0 +1,26 @@
+* {
+    font-family: 'Lora',
+        serif;
+    font-family: 'Nunito',
+        sans-serif;
+    font-family: 'Ubuntu',
+        sans-serif;
+    font-family: 'Varela Round',
+        sans-serif;
+}
+
+#app {
+    text-align: center;
+    color: #2c3e50;
+    margin: 20px;
+}
+
+#app h3 {
+    margin: 40px auto;
+}
+
+.card .close {
+    text-align: right;
+    cursor: pointer;
+}
+
